@@ -22,23 +22,3 @@ class AzizRomanA2BarPaco(private val capacitat: Int) {
 
     }
 }
-
-
-
-//        if (numPersonesDins < capacitat) {
-//            numPersonesDins++
-//            println("$nomPersona ha entrat al bar. Persones dins: $numPersonesDins/$capacitat")
-//        } else {
-//            println("El bar està ple. $nomPersona no pot entrar.")
-//        }
-//    }
-
-//        fun sortir(nomPersona: String) {
-//            if (numPersonesDins > 0) {
-//                numPersonesDins--
-//                println("$nomPersona ha sortit del bar. Persones dins: $numPersonesDins/$capacitat")
-//            } else {
-//                println("No hi ha ningú dins del bar, així que $nomPersona no pot sortir.")
-//            }
-//        }
-//    }
